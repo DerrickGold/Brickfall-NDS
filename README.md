@@ -2,8 +2,10 @@
 
 An upload of my original code for a project I released back in 2007 prior to any formal education.
 
-Here is the original readme below:
+![Alt text](/screenshots/brickfallmenu.png?raw=true "Brickfall Menu")
+![Alt text](/screenshots/brickfall.jpg?raw=true "Brickfall Gameplay Shot")
 
+##Here is the original readme below:
 
 BrickFall 
 
